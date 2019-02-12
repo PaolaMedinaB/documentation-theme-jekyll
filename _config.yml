@@ -9,7 +9,7 @@ topnav_title: Jekyll Documentation Theme
 site_title: Jekyll theme for documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: © 2019 Sinerware
 # this appears in the footer
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -112,4 +112,5 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
+# baseurl: /PaolaMedinaB.github.io
+
