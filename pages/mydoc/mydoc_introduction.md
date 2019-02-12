@@ -29,6 +29,6 @@ Some of the more prominent features of this theme include the following:
 
 ## Cómo empezar
 
-To get started, see [Getting Started][index].
+Para empezar a  usar APEX, vaya a [Getting Started][index].
 
 {% include links.html %}
