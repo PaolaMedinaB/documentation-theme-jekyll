@@ -1,5 +1,5 @@
 ---
-title: Release notes 5.0
+title: APEX 18.2
 tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 3, 2016
