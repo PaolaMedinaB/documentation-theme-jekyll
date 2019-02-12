@@ -11,7 +11,7 @@ permalink: mydoc_supported_features.html
 folder: mydoc
 ---
 
-Before you get into exploring Jekyll as a potential platform for help content, you may be wondering if it supports some basic features needed to fulfill your tech doc requirements. The following table shows what is supported in Jekyll and this theme.
+Antes de empezar a explorar la plataforma de APEX le recomendamos revizar si ya conoce los conocimientos previos necesarios para que su experiencia sea más placentera. 
 
 ## Conocimientos previos
 Para empezar a trabajar con Oracle Application Express(APEX) es recomendable tener los siguientes conocimientos previos:
