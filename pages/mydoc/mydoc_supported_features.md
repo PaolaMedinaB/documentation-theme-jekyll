@@ -21,7 +21,7 @@ Para empezar a trabajar con Oracle Application Express(APEX) es recomendable ten
 * Manejo de algún motor de base de datos (MySQL, Oracle, SQL Server de Microsoft, PostgreSQL, DB2, etc...)
 * Fundamentos de HTML 
 * Manejo de Linux (por consola
-* Git y Github(para el control de versiones y flujo de trabajo en equipo)
+* Git y Github (para el control de versiones y flujo de trabajo en equipo)
 * JIRA (herramienta para la administración de tareas de un proyecto)
 
 
