@@ -17,7 +17,7 @@ Antes de empezar a explorar la plataforma de APEX le recomendamos revizar si ya 
 Para empezar a trabajar con Oracle Application Express(APEX) es recomendable tener los siguientes conocimientos previos:
 
 * Fundamentos de base de datos (Diseño de bases de datos por medio de un Modelo Entidad-Relación)
-* SQL(Consultas básicas) Y PL/SQL
+* SQL y PL/SQL
 * Manejo de algún motor de base de datos (MySQL, Oracle, SQL Server de Microsoft, PostgreSQL, DB2, etc...)
 * Fundamentos de HTML 
 * Fundamentos de JavaScript
