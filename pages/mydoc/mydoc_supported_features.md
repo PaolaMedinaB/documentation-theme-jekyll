@@ -29,7 +29,7 @@ Para empezar a trabajar con Oracle Application Express(APEX) es recomendable ten
 
 Si desea fortalecer alguno de los conocimientos anteriores, lo invitamos a explorar el material listado a continuación:
 
-*  Canal de Youtube sobre SQL y PL/SQL (en inglés):  <a href="https://www.youtube.com/user/TheCodeMakers/playlists">link text</a>
+*  Canal de Youtube sobre SQL y PL/SQL (en inglés):  <a href="https://www.youtube.com/user/TheCodeMakers/playlists"> https://www.youtube.com/user/TheCodeMakers/playlists </a>
 
 
 
