@@ -175,31 +175,31 @@ The sidebar data file uses a specific YAML syntax that you must follow. Follow t
 ```yaml
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Oracle Application Express
+  version: 18.2
   folders:
   - title: Overview
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Cómo iniciar
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Introducción
       url: /mydoc_introduction.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: Versiones
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: APEX 18.2
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: APEX 19.1
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
