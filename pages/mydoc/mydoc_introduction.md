@@ -7,7 +7,8 @@ folder: mydoc
 
 ## Descripción general
 
-Oracle Application Express (APEX) es un framework de desarrollo  de low-code para  aplicaciones web y centrado en bases de datos.
+Oracle Application Express (APEX) APEX es un framework de desarrollo  de low-code para  aplicaciones web y centrado en bases de datos.
+Está diseñado para poder construir aplicaciones tanto para web como móviles de forma rápida y sencilla y para permitirle visualizar y mantener los datos de una base de datos. En primer lugar, aprovechará sus habilidades SQL y también las capacidades de base de datos sobre las que se construye APEX.
 
 ## Resumen de las características
 
