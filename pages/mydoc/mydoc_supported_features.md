@@ -11,7 +11,7 @@ permalink: mydoc_supported_features.html
 folder: mydoc
 ---
 
-Antes de empezar a explorar la plataforma de APEX le recomendamos revizar si ya conoce los conocimientos previos necesarios para que su experiencia sea más placentera. 
+Antes de empezar a explorar la plataforma de APEX le recomendamos revizar si ya cuenta con los conocimientos previos necesarios para que su experiencia sea más placentera. 
 
 ## Conocimientos previos
 Para empezar a trabajar con Oracle Application Express(APEX) es recomendable tener los siguientes conocimientos previos:
