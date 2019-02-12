@@ -242,8 +242,8 @@ Each level must have at least one topic before the next level starts. You can't 
 ```yaml
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Oracle Application Express
+  version: 18.2
   folders:
   - title: Overview
     output: web, pdf
