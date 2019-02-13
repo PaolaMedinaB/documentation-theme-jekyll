@@ -36,14 +36,6 @@ entries:
       url: /my9+doc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
   - title: Versiones
     output: web, pdf
     folderitems:
