@@ -8,11 +8,11 @@ permalink: mydoc_about_ruby_gems_etc.html
 folder: mydoc
 ---
 
-## About Ruby
+## 1. Requisitos de la base de datos Oracle 
 
 Jekyll runs on Ruby, a programming language. You have to have Ruby on your computer in order to run Ruby-based programs like Jekyll. Ruby is installed on the Mac by default, but you must add it to Windows.
 
-## About Ruby Gems
+## 2. Requisitos del navegador 
 
 Ruby has a number of plugins referred to as "gems." Just because you have Ruby doesn't mean you have all the necessary Ruby gems that your program needs to run. Gems provide additional functionality for Ruby programs. There are thousands of [Rubygems](https://rubygems.org/) available for you to use.
 
@@ -20,8 +20,7 @@ Some gems depend on other gems for functionality. For example, the Jekyll gem mi
 
 Each gem has a version associated with it, and not all gem versions are compatible with each other.
 
-## Rubygem package managers
-
+## 3. Comprobación del MEMORY_TARGET de la base de datos de destino 
 [Bundler](http://bundler.io/) is a gem package manager for Ruby, which means it goes out and gets all the gems you need for your Ruby programs. If you tell Bundler you need the [jekyll gem](https://rubygems.org/gems/jekyll), it will retrieve all the dependencies on the jekyll gem as well -- automatically.
 
 Not only does Bundler retrieve the right gem dependencies, but it's smart enough to retrieve the right versions of each gem. For example, if you get the [github-pages](https://rubygems.org/gems/github-pages) gem, it will retrieve all of these other gems:
@@ -59,7 +58,7 @@ See how Bundler retrieved version 3.0.3 of the jekyll gem, even though (as of th
 >
 > Bundler is an exit from dependency hell, and ensures that the gems you need are present in development, staging, and production. Starting work on a project is as simple as bundle install.
 
-## Gemfiles
+## 4 Requisitos del Listener Web
 
 Bundler looks in a project's "Gemfile" (no file extension) to see which gems are required by the project. The Gemfile lists the source and then any gems, like this:
 
@@ -109,9 +108,13 @@ This will get any Jekyll gem between versions 3.0 and up to 3.0.3.
 
 See this [Stack Overflow post](http://stackoverflow.com/questions/5170547/what-does-tilde-greater-than-mean-in-ruby-gem-dependencies) for more details.
 
-## Gemfile.lock
+## 5. Requisito de espacio en disco
 
 After Bundler retrieves and installs the gems, it makes a detailed list of all the gems and versions it has installed for your project. The snapshot of all gems + versions installed is stored in your Gemfile.lock file, which might look like this:
+
+## 6 Requisito de la base de datos Oracle XML
+
+
 
 ```
 GEM
