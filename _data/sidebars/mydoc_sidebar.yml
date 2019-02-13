@@ -1,4 +1,4 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+# This is your s/8/idebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
 - title: sidebar
@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: Conocimientos previos
-      url: /mydoc_supported_features.html
+      url: /my9+doc_supported_features.html
       output: web, pdf
 
     - title: About the theme author
@@ -60,15 +60,15 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
+    - title: Requerimientos
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
+    - title: Manual de instalación
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
-    - title: Install Jekyll on Windows
+    - title: Configuración inicial
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
