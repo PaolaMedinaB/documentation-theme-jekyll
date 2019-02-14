@@ -12,7 +12,7 @@ folder: mydoc
 ## Arquitectura de APEX 
 La arquitectura de APEX es bastante simple. Tienes que tener un navegador que se comunique a través de una aplicación Java de nivel medio (mid-tier) que en nuestro caso es el *Oracle REST Data Service (ORDS)* y que puede ser instalada en Oracle Web Logic Server usando Jetty o Tomcat. Luego esas peticiones se envían a través de la base de datos y todo el procesamiento se realiza en la base de datos Oracle, donde se encuentra el motor apex, y luego envía la petición de vuelta a través del ORDS y de vuelta al navegador.
 
-{% include image.html file="jekyll.png" alt="Jekyll" caption="Arquitectura de APEX" %}
+{% include image.html file="pic3.png" alt="Jekyll" caption="Arquitectura de APEX" %}
 
 
 
