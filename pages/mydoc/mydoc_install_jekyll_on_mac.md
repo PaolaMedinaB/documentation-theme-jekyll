@@ -40,41 +40,12 @@ ORDS ya viene incluido con las instalaciones de Oracle Database y Oracle SQL Dev
 
 ## 3. Navegador web
 
-Now use Homebrew to install Ruby:
+Oracle Application Express requiere un navegador compatible con JavaScript y es compatible con la versión actual y anterior de Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Internet Explorer y Microsoft Edge.
 
-```
-brew install ruby
-```
+## 4. Oracle Application Express
 
-Log out of terminal, and then then log back in.
+Cualquier edición de Oracle Database 11 g o superior incluye Oracle Application Express versión 4.2.6.00.03. Por lo que no es necesario descargar APEX nuevamente. Sin embargo se recomienda encarecidamente que se actualice a la última versión de Oracle Application Express para aprovechar todas las funciones más recientes. Para conocer en detalle cómo actualizar a la última versión de APEX vaya a <a href="https://www.oracle.com/technetwork/developer-tools/apex/learnmore/upgrade-apex-for-xe-154969.html">link de actualización de APEX</a>
 
-When you type `which ruby` and `which gem`, you should get responses like this:
-
-```
-/usr/local/bin/ruby
-```
-
-And this:
-
-```
-/usr/local/bin/gem
-```
-
-Now Ruby and Rubygems are installed under your username, so these directories are writeable.
-
-Note that if you don't see these paths, try restarting your computer or try installing rbenv, which is a Ruby version management tool. If you still have issues getting a writeable version of Ruby, you need to resolve them before installing Bundler.
-
-<h2 id="bundler">Install the Jekyll gem</h2>
-
-At this point you should have a writeable version of Ruby and Rubygem on your machine.
-
-Now use `gem` to install Jekyll:
-
-```
-gem install jekyll
-```
-
-You can now use Jekyll to create new Jekyll sites following the quick-start instructions on [Jekyllrb.com](http://jekyllrb.com).
 
 
 
