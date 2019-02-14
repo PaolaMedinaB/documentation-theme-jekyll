@@ -20,7 +20,7 @@ La arquitectura de APEX es bastante simple. Tienes que tener un navegador que se
 
 La base de datos de Oracle está disponible en cinco ediciones, cada una adecuada para diferentes escenarios de desarrollo e implementación. Éstas son:
 
-* <b> Oracle Database Standard Edition One </b> para pequeñas empresas y entornos de sucursales altamente distribuidos.
+* <a href="url">Oracle Database Standard Edition One</a> para pequeñas empresas y entornos de sucursales altamente distribuidos.
 
 * <b> Oracle Database Standard Edition </b> para máquinas más grandes y clustering de servicios con Oracle Real Application Clusters (Oracle RAC).
 
@@ -28,11 +28,8 @@ La base de datos de Oracle está disponible en cinco ediciones, cada una adecuad
 
 * <b> Oracle Database Express Edition (Oracle Database XE) </b> es una edición básica de Oracle Database que es gratuita.
 
-* <b> Oracle Database Personal Edition </b> es compatible con entornos de desarrollo e implementación de un solo usuario que requieren compatibilidad total con Oracle Database Standard Edition One, Oracle Database Standard Edition y Oracle Database Enterprise Edition.
+* <a href="https://www.oracle.com/database/technologies/appdev/xe/quickstart.html">link text</a> Oracle Database Personal Edition es compatible con entornos de desarrollo e implementación de un solo usuario que requieren compatibilidad total con Oracle Database Standard Edition One, Oracle Database Standard Edition y Oracle Database Enterprise Edition.
 
-
-
-Traducción realizada con el traductor www.DeepL.com/Translator
 
 ## 2. Oracle REST Data Services
 
