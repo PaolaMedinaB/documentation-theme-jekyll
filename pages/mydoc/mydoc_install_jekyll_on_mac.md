@@ -26,9 +26,9 @@ La base de datos de Oracle está disponible en cinco ediciones, cada una adecuad
 
 * <b> Oracle Database Enterprise Edition </b> para aplicaciones de procesamiento de transacciones en línea (OLTP) de gran volumen, almacenes de datos con gran cantidad de consultas y aplicaciones de Internet exigentes.
 
-* <b> Oracle Database Express Edition (Oracle Database XE) </b> es una edición básica de Oracle Database que es gratuita.
+* <a href="https://www.oracle.com/database/technologies/appdev/xe/quickstart.html"> Oracle Database Express Edition (Oracle Database XE)</a> </b> es una edición básica de Oracle Database que es gratuita.
 
-* <a href="https://www.oracle.com/database/technologies/appdev/xe/quickstart.html">link text</a> Oracle Database Personal Edition es compatible con entornos de desarrollo e implementación de un solo usuario que requieren compatibilidad total con Oracle Database Standard Edition One, Oracle Database Standard Edition y Oracle Database Enterprise Edition.
+* Oracle Database Personal Edition es compatible con entornos de desarrollo e implementación de un solo usuario que requieren compatibilidad total con Oracle Database Standard Edition One, Oracle Database Standard Edition y Oracle Database Enterprise Edition.
 
 
 ## 2. Oracle REST Data Services
