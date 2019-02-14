@@ -20,16 +20,19 @@ La arquitectura de APEX es bastante simple. Tienes que tener un navegador que se
 
 La base de datos de Oracle está disponible en cinco ediciones, cada una adecuada para diferentes escenarios de desarrollo e implementación. Éstas son:
 
-*  <b> Oracle Database Standard Edition One </b>for small business and highly distributed branch environments.
+* <b> Oracle Database Standard Edition One </b> para pequeñas empresas y entornos de sucursales altamente distribuidos.
 
-* <b> Oracle Database Standard Edition </b> for larger machines and clustering of services with Oracle Real Application Clusters (Oracle RAC). 
+* <b> Oracle Database Standard Edition </b> para máquinas más grandes y clustering de servicios con Oracle Real Application Clusters (Oracle RAC).
 
-* <b> Oracle Database Enterprise Edition </b> for  high-volume online transaction processing (OLTP) applications, query-intensive data warehouses, and demanding Internet applications. 
+* <b> Oracle Database Enterprise Edition </b> para aplicaciones de procesamiento de transacciones en línea (OLTP) de gran volumen, almacenes de datos con gran cantidad de consultas y aplicaciones de Internet exigentes.
 
-* <b> Oracle Database Express Edition (Oracle Database XE) </b> is an entry-level edition of Oracle Database that is free.
+* <b> Oracle Database Express Edition (Oracle Database XE) </b> es una edición básica de Oracle Database que es gratuita.
 
-* <b> Oracle Database Personal Edition </b> supports single-user development and deployment environments that require full compatibility with Oracle Database Standard Edition One, Oracle Database Standard Edition, and Oracle Database Enterprise Edition.
+* <b> Oracle Database Personal Edition </b> es compatible con entornos de desarrollo e implementación de un solo usuario que requieren compatibilidad total con Oracle Database Standard Edition One, Oracle Database Standard Edition y Oracle Database Enterprise Edition.
 
+
+
+Traducción realizada con el traductor www.DeepL.com/Translator
 
 ## 2. Oracle REST Data Services
 
