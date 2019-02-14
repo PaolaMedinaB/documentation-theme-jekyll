@@ -35,17 +35,8 @@ Para descargar alguna de las ediciones de bases de datos de Oracle vaya a la pá
 
 ## 2. Oracle REST Data Services
 
-Homebrew is a package manager for the Mac, and you can use it to install an alternative instance of Ruby code. To install Homebrew, run this command:
-
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
-If you already had Homebrew installed on your computer, be sure to update it:
-
-```
-brew update
-```
+Oracle REST Data Services (ORDS) makes it easy to develop modern REST interfaces for relational data in the Oracle Database and the Oracle Database 18c JSON Document Store. A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
+ORDS ya viene incluido con las instalaciones de Oracle Database y Oracle SQL Developer por lo que no es necesario descargarlo de nuevo. Para obteneer más información de ORDS visite el sitio oficial de Oracle. <a href="https://www.oracle.com/database/technologies/appdev/rest.html"> Sitio oficial de Oracle </a>
 
 ## 3. Navegador web
 
