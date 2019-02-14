@@ -18,30 +18,18 @@ La arquitectura de APEX es bastante simple. Tienes que tener un navegador que se
 
 ## 1. Base de datos Oracle 
 
-Ruby and [RubyGems](https://rubygems.org/pages/download) are usually installed by default on Macs. Open your Terminal and type `which ruby` and  `which gem` to confirm that you have Ruby and Rubygems. You should get a response indicating the location of Ruby and Rubygems.
+La base de datos de Oracle está disponible en cinco ediciones, cada una adecuada para diferentes escenarios de desarrollo e implementación. Éstas son:
 
-If you get responses that look like this:
+*  <b> Oracle Database Standard Edition One </b>for small business and highly distributed branch environments.
 
-```
-/usr/local/bin/ruby
-```
+* <b> Oracle Database Standard Edition </b> for larger machines and clustering of services with Oracle Real Application Clusters (Oracle RAC). 
 
-and
+* <b> Oracle Database Enterprise Edition </b> for  high-volume online transaction processing (OLTP) applications, query-intensive data warehouses, and demanding Internet applications. 
 
-```
-/usr/local/bin/gem
-```
+* <b> Oracle Database Express Edition (Oracle Database XE) </b> is an entry-level edition of Oracle Database that is free.
 
-Great! Skip down to the [Bundler](#bundler) section.
+* <b> Oracle Database Personal Edition </b> supports single-user development and deployment environments that require full compatibility with Oracle Database Standard Edition One, Oracle Database Standard Edition, and Oracle Database Enterprise Edition.
 
-However, if your location is something like `/Users/MacBookPro/.rvm/rubies/ruby-2.2.1/bin/gem`, which points to your system location of Rubygems, you will likely run into permissions errors when trying to get a gem. A sample permissions error (triggered when you try to install the jekyll gem such as `gem install jekyll`) might look like this for Rubygems:
-
-```
- >ERROR:  While executing gem ... (Gem::FilePermissionError)
-  You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.
-```  
-
-Instead of changing the write permissions on your operating system's version of Ruby and Rubygems (which could pose security issues), you can install another instance of Ruby (one that is writable) to get around this.
 
 ## 2. Oracle REST Data Services
 
