@@ -33,7 +33,7 @@ entries:
       output: web, pdf
 
     - title: Conocimientos previos
-      url: /my9+doc_supported_features.html
+      url: /mydoc_supported_features.html
       output: web, pdf
 
   - title: Versiones
