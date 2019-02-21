@@ -23,10 +23,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Cómo empezar
-      url: /index.html
-      output: web, pdf
-      type: homepage
 
     - title: Introducción
       url: /mydoc_introduction.html
