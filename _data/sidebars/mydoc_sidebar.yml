@@ -64,60 +64,28 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Temas básicos
     output: web, pdf
 
     folderitems:
-    - title: Pages
+    - title: Creación de una aplicación
       url: /mydoc_pages.html
       output: web, pdf
 
-    - title: Posts
+    - title: Creación de formularios
       url: /mydoc_posts.html
       output: web, pdf
 
-    - title: Lists
+    - title: Adición de elementos y botones
       url: /mydoc_lists.html
       output: web, pdf
 
-    - title: Conditional logic
+    - title: Acciones dinámicas 
       url: /mydoc_conditional_logic.html
       output: web, pdf
 
-    - title: Content reuse
+    - title: plug-ins
       url: /mydoc_content_reuse.html
-      output: web, pdf
-
-    - title: Collections
-      url: /mydoc_collections.html
-      output: web, pdf
-
-    - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
-      output: web, pdf
-
-    - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
-      output: web, pdf
-
-  - title: Navigation
-    output: web, pdf
-
-    folderitems:
-    - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
-      output: web, pdf
-
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
-      output: web, pdf
-
-    - title: Tags
-      url: /mydoc_tags.html
-      output: web, pdf
-
-    - title: Series
-      url: /mydoc_series.html
       output: web, pdf
 
   - title: Formatting
